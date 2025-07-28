@@ -1,0 +1,21 @@
+meta {
+  name: Store
+  type: http
+  seq: 1
+}
+
+post {
+  url: Http://localhost:3333/metas/4/steps
+  body: json
+  auth: bearer
+}
+
+auth:bearer {
+  token: oat_Mg.S2gwaUFLSW4xSHJUcWZNZXJSSW84cGlLWk1OMUNYVEhGUGxLaVByXzQwOTE4NzM3MjU
+}
+
+body:json {
+  {
+    "description": "batata"
+  }
+}
