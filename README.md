@@ -55,4 +55,4 @@ Este é um aplicativo mobile, desenvolvido em React Native com Expo, para ajudar
 5.  Use o **ícone de sol/lua** na tela de perfil para alternar entre os temas claro e escuro.
 
 ---
-Desenvolvido por **[Seu Nome Aqui]**.
+Desenvolvido por **Ian Thalles Lima Rocha**.
